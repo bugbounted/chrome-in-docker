@@ -1,0 +1,6 @@
+{
+    "name": "chrome-in-docker",
+    "description": "run Google Chrome in container (as a perfect headless browser)",
+    "repository": "https://github.com/elmirarokni/chrome-in-docker",
+    "stack": "container"
+}
