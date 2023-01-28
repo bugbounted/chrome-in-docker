@@ -1,5 +1,8 @@
-[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # google-chrome in docker
+
+<a href="https://heroku.com/deploy?template=https://github.com/bugbounted/chrome-in-docker">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 *Need to test some latest Chrome version's features?* but hestitant to
 upgrade your main browser to unstable? this chrome-in-docker project can help you
